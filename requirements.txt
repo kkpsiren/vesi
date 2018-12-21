@@ -1,0 +1,15 @@
+pympler
+joblib
+numpy
+holoviews
+bokeh
+pandas
+scipy
+matplotlib
+seaborn
+sklearn
+opencv-python
+peakutils
+tensorly
+xgboost
+fastcluster
