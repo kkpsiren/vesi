@@ -1,0 +1,254 @@
+# packages in environment at /home/malaka/anaconda3/envs/opencv:
+#
+# Name                    Version                   Build  Channel
+absl-py                   0.2.2                    pypi_0    pypi
+adjusttext                0.7                      pypi_0    pypi
+alabaster                 0.7.10           py36h306e16b_0  
+asn1crypto                0.22.0           py36h265ca7c_1  
+astor                     0.7.1                    pypi_0    pypi
+astroid                   1.5.3            py36hbdb9df2_0  
+atomicwrites              1.2.1                    pypi_0    pypi
+attrs                     18.2.0                   pypi_0    pypi
+babel                     2.5.0            py36h7d14adf_0  
+bhtsne                    0.1.9                    pypi_0    pypi
+biom-format               2.1.6                    pypi_0    pypi
+blas                      1.0                         mkl  
+bleach                    1.5.0                    pypi_0    pypi
+bokeh                     0.12.14                  py36_1    conda-forge
+boostaroota               1.3                      pypi_0    pypi
+boruta                    0.1.5                    pypi_0    pypi
+bzip2                     1.0.6                h0376d23_1  
+ca-certificates           2018.10.15           ha4d7672_0    conda-forge
+cachecontrol              0.12.3                   py36_0  
+cairo                     1.12.18                       6  
+catboost                  0.9.1.1                  py36_1    conda-forge
+certifi                   2017.7.27.1      py36h8b7b77e_0  
+cffi                      1.10.0           py36had8d393_1  
+chardet                   3.0.4            py36h0f667ec_1  
+click                     6.7                      pypi_0    pypi
+colorlover                0.2.1                    pypi_0    pypi
+cryptography              2.0.3            py36ha225213_1  
+cufflinks                 0.8.2                    pypi_0    pypi
+curl                      7.55.1               hcb0b314_2  
+cycler                    0.10.0           py36h93f1223_0  
+cyjs                      0.1.0.dev0                dev_0    <develop>
+cython                    0.26.1           py36h21c49d0_0  
+dbus                      1.10.22              h3b5a359_0  
+decorator                 4.2.1                    pypi_0    pypi
+defusedxml                0.5.0                    py36_0    conda-forge
+docutils                  0.14             py36hb0f60f5_0  
+eli5                      0.8                      pypi_0    pypi
+entrypoints               0.2.3            py36h1aec115_2  
+expat                     2.2.4                h6ea4f2b_2  
+fa2                       0.2                      pypi_0    pypi
+fastcluster               1.1.23                   pypi_0    pypi
+ffnet                     0.8.3                    pypi_0    pypi
+fontconfig                2.11.1                        6  
+freetype                  2.5.5                         2  
+future                    0.16.0                   pypi_0    pypi
+gast                      0.2.0                    pypi_0    pypi
+glib                      2.53.6               h5d9569c_2  
+gmp                       6.1.2                hb3b607b_0  
+graphite2                 1.3.10               hc526e54_0  
+graphviz                  2.38.0                        2  
+grpcio                    1.13.0                   pypi_0    pypi
+gsl                       2.2.1                h8267d9d_2  
+gspread                   0.6.2                    pypi_0    pypi
+gst-plugins-base          1.12.2               he3457e5_0  
+gstreamer                 1.12.2               h4f93127_0  
+h5py                      2.7.0                    pypi_0    pypi
+harfbuzz                  0.9.39                        1  
+hdbscan                   0.8.12                   py36_1    conda-forge
+hiveplot                  0.1.8.4                  py36_0    conda-forge
+holoviews                 1.9.5                    py36_0    ioam
+html5lib                  0.9999999                pypi_0    pypi
+httplib2                  0.10.3                   pypi_0    pypi
+hypothesis                3.71.10                  py36_0    conda-forge
+icu                       54.1                          0  
+idna                      2.6              py36h82fb2a8_1  
+imagesize                 0.7.1            py36h52d8127_0  
+imbalanced-learn          0.3.2                      py_0    conda-forge
+intel-openmp              2018.0.0             h15fc484_7  
+ipykernel                 4.6.1            py36hbf841aa_0  
+ipython                   6.1.0            py36hc72a948_1  
+ipython_genutils          0.2.0            py36hb52b0d5_0  
+ipywidgets                7.4.2                      py_0    conda-forge
+isort                     4.2.15           py36had401c0_0  
+jbig                      2.1                  hdba287a_0  
+jedi                      0.10.2           py36h552def0_0  
+jinja2                    2.10                     pypi_0    pypi
+joblib                    0.11                     py36_0  
+jpeg                      8d                            2  
+jsonschema                2.6.0            py36h006f8b5_0  
+jupyter                   1.0.0                      py_1    conda-forge
+jupyter-contrib-core      0.3.3                    pypi_0    pypi
+jupyter-highlight-selected-word 0.2.0                    pypi_0    pypi
+jupyter_client            5.2.3                      py_1    conda-forge
+jupyter_console           5.2.0            py36he59e554_1  
+jupyter_contrib_core      0.3.3                      py_2    conda-forge
+jupyter_contrib_nbextensions 0.5.0                    py36_0    conda-forge
+jupyter_core              4.4.0                      py_0    conda-forge
+jupyter_highlight_selected_word 0.2.0                    py36_0    conda-forge
+jupyter_latex_envs        1.3.8.2                  py36_1    conda-forge
+jupyter_nbextensions_configurator 0.4.0                    py36_0    conda-forge
+jupyterthemes             0.15.6                   pypi_0    pypi
+keras                     2.0.4                    pypi_0    pypi
+kiwisolver                1.0.1                    pypi_0    pypi
+krb5                      1.14.2               h56d4222_4  
+lazy-object-proxy         1.3.1            py36h10fcdad_0  
+lesscpy                   0.12.0                   pypi_0    pypi
+libedit                   3.1                  heed3624_0  
+libffi                    3.2.1                hd88cf55_4  
+libgcc                    7.2.0                h69d50b8_2  
+libgcc-ng                 7.2.0                h7cc24e2_2  
+libgfortran               3.0.0                         1  
+libgfortran-ng            7.2.0                h9f7466a_2  
+libiconv                  1.15                 h63c8f33_5  
+libpng                    1.6.32               hda9c8bc_2  
+libsodium                 1.0.13               h31c71d8_2  
+libssh2                   1.8.0                h8c220ad_2  
+libstdcxx-ng              7.2.0                h7a57d05_2  
+libtiff                   4.0.6                         2  
+libtool                   2.4.6                         0    conda-forge
+libxcb                    1.12                 h84ff03f_3  
+libxml2                   2.9.4                         0  
+libxslt                   1.1.29                        4    conda-forge
+lockfile                  0.12.2                   py36_0  
+lxml                      3.7.3                    pypi_0    pypi
+markdown                  2.6.11                   pypi_0    pypi
+markupsafe                1.0              py36hd9260cd_1  
+matplotlib                3.0.0                    pypi_0    pypi
+mccabe                    0.6.1            py36h5ad9710_1  
+mistune                   0.8.1            py36h3d5977c_0  
+mkl                       2018.0.0             hb491cac_4  
+mlxtend                   0.6.0                    pypi_0    pypi
+more-itertools            4.3.0                    pypi_0    pypi
+mpld3                     0.3                      pypi_0    pypi
+msgpack-python            0.4.8            py36hec4c5d1_0  
+multicoretsne             0.1                      pypi_0    pypi
+natsort                   5.1.0                    py36_0  
+nbconvert                 5.4.0                         1    conda-forge
+nbformat                  4.4.0                      py_1    conda-forge
+ncurses                   6.0                  h9df7e31_2  
+networkx                  1.11                     pypi_0    pypi
+nose                      1.3.7                    pypi_0    pypi
+notebook                  5.3.1                    py36_0    conda-forge
+numpy                     1.14.5                   pypi_0    pypi
+numpydoc                  0.7.0            py36h18f165f_0  
+nxviz                     0.3.1                    py36_0    conda-forge
+oauth2client              4.1.2                    pypi_0    pypi
+opencv3                   3.1.0                    py36_0    https://conda.binstar.org/menpo
+openssl                   1.0.2p               h470a237_1    conda-forge
+packaging                 17.1                       py_0    conda-forge
+palettable                3.0.0                    py36_0    conda-forge
+pandas                    0.23.4           py36hf8a1672_0    conda-forge
+pandas-profiling          1.4.1                    pypi_0    pypi
+pandoc                    1.19.2.1             hea2e7c5_1  
+pandocfilters             1.4.2            py36ha6701b7_1  
+pango                     1.39.0                        0  
+param                     1.5.1                    py36_0    ioam
+path.py                   10.3.1           py36he0c6f6d_0  
+patsy                     0.5.0                    py36_0    conda-forge
+pcre                      8.41                 hc71a17e_0  
+pdpbox                    0.2.0                    pypi_0    pypi
+peakutils                 1.1.0                    pypi_0    pypi
+pep8                      1.7.0            py36h26ade29_0  
+pexpect                   4.2.1            py36h3b9d41b_0  
+pickleshare               0.7.4            py36h63277f8_0  
+pip                       18.0                     pypi_0    pypi
+pixman                    0.32.6                        0  
+plotly                    2.0.7                    pypi_0    pypi
+pluggy                    0.7.1                    pypi_0    pypi
+ply                       3.10                     pypi_0    pypi
+polcart                   2017.1.16.14.45          py36_1    conda-forge
+prompt_toolkit            1.0.15           py36h17d85b1_0  
+protobuf                  3.6.0                    pypi_0    pypi
+psutil                    5.4.0            py36h84c53db_0  
+ptyprocess                0.5.2            py36h69acd42_0  
+py                        1.6.0                    pypi_0    pypi
+py2cytoscape              0.6.2                    pypi_0    pypi
+pyasn1                    0.3.6                    pypi_0    pypi
+pyasn1-modules            0.1.4                    pypi_0    pypi
+pycodestyle               2.3.1            py36hf609f19_0  
+pycparser                 2.18             py36hf9f622e_1  
+pydot                     1.2.3                    pypi_0    pypi
+pydotplus                 2.0.2                    pypi_0    pypi
+pyflakes                  1.6.0            py36h7bd6a15_0  
+pygments                  2.2.0            py36h0d3125c_0  
+pylint                    1.7.4            py36hb9d4533_0  
+pympler                   0.5                      pypi_0    pypi
+pymzml                    2.0.0                    pypi_0    pypi
+pyopenssl                 17.2.0           py36h5cc804b_0  
+pyparsing                 2.2.0            py36hee85983_1  
+pyqt                      5.6.0            py36h0386399_5  
+pysocks                   1.6.7            py36hd97a5b1_1  
+pyteomics                 3.4.2                    pypi_0    pypi
+pytest                    3.8.1                    pypi_0    pypi
+python                    3.6.3                h1284df2_4  
+python-dateutil           2.6.1            py36h88d3b88_1  
+python-graphviz           0.8                      py36_0    conda-forge
+python-igraph             0.7.1.post6              pypi_0    pypi
+python-louvain            0.10                     pypi_0    pypi
+pytz                      2017.2           py36hc2ccc2a_1  
+pyyaml                    3.12                     pypi_0    pypi
+pyzmq                     16.0.2           py36h3b0cf96_2  
+qt                        5.6.2                         0  
+qtawesome                 0.4.4            py36h609ed8c_0  
+qtconsole                 4.3.1            py36h8f73b5b_0  
+qtpy                      1.3.1            py36h3691cc8_0  
+readline                  7.0                  ha6073c6_4  
+requests                  2.18.4           py36he2e5f8d_1  
+rope                      0.10.5           py36h1f8c17e_0  
+rpy2                      2.9.2                    pypi_0    pypi
+rsa                       3.4.2                    pypi_0    pypi
+scikit-bio                0.5.1               np113py36_0  
+scikit-learn              0.19.1           py36h7aa7ec6_0  
+scikit-tensor             0.1                       dev_0    <develop>
+scipy                     1.1.0                    pypi_0    pypi
+seaborn                   0.9.0                      py_0    conda-forge
+send2trash                1.5.0                      py_0    conda-forge
+setuptools                40.0.0                   pypi_0    pypi
+simplegeneric             0.8.1            py36h2cb9092_0  
+singledispatch            3.4.0.3          py36h7a266c3_0  
+sip                       4.18.1           py36h51ed4ed_2  
+six                       1.11.0           py36h372c433_1  
+snowballstemmer           1.2.1            py36h6febd40_0  
+spacepy                   0.1.6                    pypi_0    pypi
+sphinx                    1.6.3            py36he5f0bdb_0  
+sphinxcontrib             1.0              py36h6d0f590_1  
+sphinxcontrib-websupport  1.0.1            py36hb5cb234_1  
+spyder                    3.2.4            py36hbe6152b_0  
+sqlite                    3.20.1               hb898158_2  
+statsmodels               0.8.0            py36h8533d0b_0  
+style                     1.1.0                    pypi_0    pypi
+tabulate                  0.8.2                    pypi_0    pypi
+tensorboard               1.8.0                    pypi_0    pypi
+tensorflow                1.8.0                    pypi_0    pypi
+tensorly                  0.4.2                    pypi_0    pypi
+termcolor                 1.1.0                    pypi_0    pypi
+terminado                 0.6              py36ha25a19f_0  
+testpath                  0.3.1            py36h8cadb63_0  
+theano                    0.9.0                    pypi_0    pypi
+tk                        8.6.7                hc745277_3  
+tornado                   4.5.2            py36h1283b2a_0  
+tqdm                      4.19.5                   pypi_0    pypi
+traitlets                 4.3.2            py36h674d592_0  
+tsne                      0.1.7                    pypi_0    pypi
+typing                    3.6.2            py36h7da032a_0  
+update                    0.0.1                    pypi_0    pypi
+urllib3                   1.22             py36hbe7ace6_0  
+visjs2jupyter             0.1.16                   pypi_0    pypi
+watermark                 1.4.0                    pypi_0    pypi
+wcwidth                   0.1.7            py36hdf4376a_0  
+webencodings              0.5.1            py36h800622e_1  
+werkzeug                  0.14.1                   pypi_0    pypi
+wheel                     0.31.1                   pypi_0    pypi
+widgetsnbextension        3.4.2                    py36_0    conda-forge
+wrapt                     1.10.11          py36h28b7045_0  
+xarray                    0.9.6                    py36_0  
+xgboost                   0.80                     pypi_0    pypi
+xlrd                      1.1.0            py36h1db9f0c_1  
+xz                        5.2.3                h55aa19d_2  
+yaml                      0.1.7                h014fa73_2  
+zeromq                    4.2.2                hbedb6e5_2  
+zlib                      1.2.11               ha838bed_2  
