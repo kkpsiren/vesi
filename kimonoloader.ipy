@@ -1,0 +1,40 @@
+# -*- coding: utf-8 -*-
+"""
+Import libraries for normal notebook set up
+
+Created on Wed Aug 17 13:31:02 2017
+
+@author: Kimmo
+"""
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+# some basic plotting directives
+%config InlineBackend.figure_format = "retina"
+plt.rcParams['savefig.dpi'] = 200
+# plt.rcParams['figure.autolayout'] = False
+plt.rcParams['figure.figsize'] = 20, 12
+plt.rcParams['axes.labelsize'] = 18
+plt.rcParams['axes.titlesize'] = 20
+plt.rcParams['font.size'] = 16
+plt.rcParams['lines.linewidth'] = 2.0
+plt.rcParams['lines.markersize'] = 8
+plt.rcParams['legend.fontsize'] = 14
+plt.rcParams['font.family'] = "serif"
+plt.rcParams['font.serif'] = "cm"
+sns.set(rc={"figure.figsize": (20, 12)})
+sns.set_context("notebook", font_scale=1.1)
+sns.set_style("whitegrid") #"ticks"
+# Watermark
+%load_ext watermark
+%watermark -a "Automated supervised learning pipeline for non-targeted GC-MS data analysis Siren et al.," -d -t -v -p seaborn,pandas 
+# Show all output values
+# from IPython.core.interactiveshell import InteractiveShell
+# InteractiveShell.ast_node_interactivity = "last" #"last"
+# Set Pandas display options for easier reading
+pd.set_option("max_colwidth", 100)
+pd.set_option("display.max_rows", 1000)
+pd.set_option("display.max_columns", 9001)  # there is a scrollbar and '...' just looks stupid
+pd.set_option('display.float_format', lambda x: '{:,.2f}'.format(x))
