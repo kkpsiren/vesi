@@ -2,7 +2,7 @@
 
 Sirén K, Fischer U and Vestner J. Automated supervised learningpipeline for non-targeted GC-MS data analysis, Analytica Chimica Acta X,  https://doi.org/10.1016/j.acax.2019.100005.
 
-Python-based workflow using supervised learning to select the important features directly from the raw GC-MS data, before any downstream analysis. Currently optimized to work on unit mass level but could be expanded to high-res setup or 2D systems easily.
+Hands-off Python-based workflow using supervised learning to select the important features directly from the raw GC-MS data, before any downstream analysis. Currently optimized to work on unit mass level but could be expanded to high-res setup or 2D systems easily. Currently optimized to work with a segmentation strategy, but can be easily changed to work with other "preselection" approaches
 
 ## Workflow requirements
 
@@ -15,7 +15,7 @@ pip3 install --trusted-host pypi.python.org -r requirements.txt
 ### Setup for analysis
 1. Set the filenames correctly (metadata currently read from the samplenames)
 2. Set folder structure accordingly
-3. Set the paths to folders need to be in 1.4. "Import the the metadata"
+3. Set the paths to folders in the jupyter notebook section 1.4. "Import the the metadata"
 
 ### In brief what actually happens
 segments the raw data
